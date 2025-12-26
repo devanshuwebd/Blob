@@ -12,6 +12,9 @@ export default function OnboardingLayout() {
         headerTitleStyle: {
           fontWeight: 'bold',
         },
+        contentStyle: {
+          backgroundColor: '#ffffff',
+        },
       }}>
       <Stack.Screen
         name="getting-started"
